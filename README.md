@@ -1,2 +1,2 @@
 # EduTutor
-Tutor
+EduTutor
